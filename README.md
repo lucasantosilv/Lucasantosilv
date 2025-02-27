@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in a  projeto de análise de dados 
-- 👨‍💻 I'm learning Python and SQL
-- 🤔 I’m looking for help with Análise de Dados e Machine Learning
-- ⚡ Fun fact: Inteligência Artificial
+- 🔭 Atualmente estou trabalhando em um projeto de análise de dados
+- 👨 💻 Estou aprendendo Python e SQL
+- 🤔 Estou procurando ajuda com Análise de Dados e Machine Learning
+- ⚡ Curiosidade: Inteligência Artificial
 - 👾 Linguagens que eu já utilizei :
  
 <div style="display: inline_block"><br>
